@@ -1,5 +1,5 @@
 type: generalAbility
-name: Piloting
+name: 조종
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

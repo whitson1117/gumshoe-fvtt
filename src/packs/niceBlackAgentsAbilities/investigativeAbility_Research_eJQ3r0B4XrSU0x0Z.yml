@@ -1,5 +1,5 @@
 type: investigativeAbility
-name: Research
+name: 자료 조사
 img: /systems/investigator/assets/icons/magnifying-glass.webp
 system:
   notes:

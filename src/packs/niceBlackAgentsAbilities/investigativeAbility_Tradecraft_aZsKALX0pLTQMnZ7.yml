@@ -1,5 +1,5 @@
 type: investigativeAbility
-name: Tradecraft
+name: 업계 상식
 img: /systems/investigator/assets/icons/magnifying-glass.webp
 system:
   notes:

@@ -1,5 +1,5 @@
 type: generalAbility
-name: Athletics
+name: 운동
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

@@ -1,5 +1,5 @@
 type: generalAbility
-name: Hand-to-Hand
+name: 격투
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

@@ -1,5 +1,5 @@
 type: generalAbility
-name: Conceal
+name: 은닉
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

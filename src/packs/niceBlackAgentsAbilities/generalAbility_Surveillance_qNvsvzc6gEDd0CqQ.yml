@@ -1,5 +1,5 @@
 type: generalAbility
-name: Surveillance
+name: 감시
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

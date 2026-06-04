@@ -1,5 +1,5 @@
 type: generalAbility
-name: Explosive Devices
+name: 폭파
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

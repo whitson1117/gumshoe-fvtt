@@ -1,5 +1,5 @@
 type: generalAbility
-name: Sense Trouble
+name: 위험감지
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

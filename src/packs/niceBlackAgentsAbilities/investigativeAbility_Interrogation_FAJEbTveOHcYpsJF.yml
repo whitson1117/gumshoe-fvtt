@@ -1,5 +1,5 @@
 type: investigativeAbility
-name: Interrogation
+name: 심문
 img: /systems/investigator/assets/icons/magnifying-glass.webp
 system:
   notes:

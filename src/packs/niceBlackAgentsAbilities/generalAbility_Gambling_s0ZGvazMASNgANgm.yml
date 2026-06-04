@@ -1,5 +1,5 @@
 type: generalAbility
-name: Gambling
+name: 도박
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

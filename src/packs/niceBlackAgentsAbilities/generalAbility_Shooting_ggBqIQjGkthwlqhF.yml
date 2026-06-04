@@ -1,5 +1,5 @@
 type: generalAbility
-name: Shooting
+name: 사격
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

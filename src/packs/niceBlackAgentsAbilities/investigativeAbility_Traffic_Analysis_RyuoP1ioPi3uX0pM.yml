@@ -1,5 +1,5 @@
 type: investigativeAbility
-name: Traffic Analysis
+name: 트래픽 분석
 img: /systems/investigator/assets/icons/magnifying-glass.webp
 system:
   notes:

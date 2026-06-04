@@ -1,5 +1,5 @@
 type: investigativeAbility
-name: Data Recovery
+name: 데이터 판독
 img: /systems/investigator/assets/icons/magnifying-glass.webp
 system:
   notes:

@@ -1,5 +1,5 @@
 type: investigativeAbility
-name: Human Terrain
+name: 인간 지리
 img: /systems/investigator/assets/icons/magnifying-glass.webp
 system:
   notes:

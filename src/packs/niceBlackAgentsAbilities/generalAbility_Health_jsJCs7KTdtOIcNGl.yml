@@ -1,5 +1,5 @@
 type: generalAbility
-name: Health
+name: 체력
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

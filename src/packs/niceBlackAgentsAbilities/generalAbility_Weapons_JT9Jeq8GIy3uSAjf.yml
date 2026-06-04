@@ -1,5 +1,5 @@
 type: generalAbility
-name: Weapons
+name: 백병전
 img: /systems/investigator/assets/icons/fist.webp
 system:
   notes:

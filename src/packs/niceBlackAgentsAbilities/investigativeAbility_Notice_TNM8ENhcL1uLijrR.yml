@@ -1,5 +1,5 @@
 type: investigativeAbility
-name: Notice
+name: 관찰력
 img: /systems/investigator/assets/icons/magnifying-glass.webp
 system:
   notes:

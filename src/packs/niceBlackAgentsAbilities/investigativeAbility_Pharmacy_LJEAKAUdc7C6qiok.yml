@@ -1,5 +1,5 @@
 type: investigativeAbility
-name: Pharmacy
+name: 약학
 img: /systems/investigator/assets/icons/magnifying-glass.webp
 system:
   notes:
