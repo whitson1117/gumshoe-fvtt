@@ -7779,8 +7779,7 @@ var lh = async () => {
 	let [n, r, i] = nh(E.migrationFlags.get(), th);
 	n && (await ch(r), await E.migrationFlags.set(i));
 }, uh = () => {
-	if (typeof Babele < "u") {
-		let e = Babele.get();
+	Hooks.once("babele.init", (e) => {
 		if (e.setSystemTranslationsDir) e.setSystemTranslationsDir("lang/babele");
 		else {
 			let e = "Please make sure you have installed the latest version of Babele (unable to set system translations path).";
@@ -7788,7 +7787,7 @@ var lh = async () => {
 				ui.notifications?.warn(e);
 			});
 		}
-	}
+	});
 }, dh = () => {
 	Hooks.on("devModeReady", () => {
 		s(game), game.modules.get("_dev-mode")?.api.registerPackageDebugFlag("investigator", "boolean", { default: !1 });
@@ -7803,8 +7802,8 @@ var lh = async () => {
 		hint: "Open GUMSHOE System Settings"
 	});
 };
-window.EMOTION_RUNTIME_AUTO_LABEL = !0, em(), Hooks.once("init", function() {
-	t.log(`Initializing ${P} system`), fh(), uh();
+window.EMOTION_RUNTIME_AUTO_LABEL = !0, em(), uh(), Hooks.once("init", function() {
+	t.log(`Initializing ${P} system`), fh();
 }), Hooks.once("setup", function() {
 	Zm();
 }), Hooks.once("ready", async () => {

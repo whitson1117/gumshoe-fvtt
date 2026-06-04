@@ -76,6 +76,9 @@ declare module "fvtt-types/configuration" {
       [constants.nextTurn]: () => void;
 
       // third-party hooks
+      "babele.init": (babele: {
+        setSystemTranslationsDir?: (dir: string) => void;
+      }) => void;
       devModeReady: () => void;
       "PopOut:dialog": (
         dialoggedApp: Application,

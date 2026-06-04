@@ -1,9 +1,7 @@
 import { systemLogger } from "../functions/utilities";
 
 export const registerBabele = () => {
-  // register babele translations
-  if (typeof Babele !== "undefined") {
-    const babele = Babele.get();
+  Hooks.once("babele.init", (babele) => {
     if (babele.setSystemTranslationsDir) {
       babele.setSystemTranslationsDir("lang/babele");
     } else {
@@ -14,5 +12,5 @@ export const registerBabele = () => {
         ui.notifications?.warn(message);
       });
     }
-  }
+  });
 };
