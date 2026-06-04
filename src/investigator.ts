@@ -40,12 +40,12 @@ import { registerSettingsMenu } from "./startup/registerSettingsMenu";
 window.EMOTION_RUNTIME_AUTO_LABEL = true;
 
 injectGlobalHelper();
-registerBabele();
 
 // Initialize system
 Hooks.once("init", function () {
   systemLogger.log(`Initializing ${systemId} system`);
   registerSettingsMenu();
+  registerBabele();
 });
 
 // Setup system

@@ -5,248 +5,248 @@
     },
     "entries": {
         "Accounting": {
-            "name": "Accounting",
-            "category": "Academic"
+            "name": "회계",
+            "category": "학술"
         },
         "Archaeology": {
-            "name": "Archaeology",
-            "category": "Academic"
+            "name": "고고학",
+            "category": "학술"
         },
         "Architecture": {
-            "name": "Architecture",
-            "category": "Academic"
+            "name": "건축학",
+            "category": "학술"
         },
         "Art History": {
-            "name": "Art History",
-            "category": "Academic"
+            "name": "미술사",
+            "category": "학술"
         },
         "Astronomy": {
-            "name": "Astronomy",
-            "category": "Technical"
+            "name": "천문학",
+            "category": "기술"
         },
         "Athletics": {
-            "name": "Athletics",
-            "category": "General"
+            "name": "운동",
+            "category": "일반"
         },
         "Bullshit Detector": {
-            "name": "Bullshit Detector",
-            "category": "Interpersonal"
+            "name": "거짓말 탐지",
+            "category": "대인"
         },
         "Bureaucracy": {
-            "name": "Bureaucracy",
-            "category": "Interpersonal"
+            "name": "관료제",
+            "category": "대인"
         },
         "Chemistry": {
-            "name": "Chemistry",
-            "category": "Technical"
+            "name": "화학",
+            "category": "기술"
         },
         "Conceal": {
-            "name": "Conceal",
-            "category": "General"
+            "name": "은닉",
+            "category": "일반"
         },
         "Cop Talk": {
-            "name": "Cop Talk",
-            "category": "Interpersonal"
+            "name": "경찰 연줄",
+            "category": "대인"
         },
         "Cover": {
-            "name": "Cover",
-            "category": "General"
+            "name": "위장 신분",
+            "category": "일반"
         },
         "Criminology": {
-            "name": "Criminology",
-            "category": "Academic"
+            "name": "범죄학",
+            "category": "학술"
         },
         "Cryptography": {
-            "name": "Cryptography",
-            "category": "Technical"
+            "name": "암호학",
+            "category": "기술"
         },
         "Data Recovery": {
-            "name": "Data Recovery",
-            "category": "Technical"
+            "name": "데이터 판독",
+            "category": "기술"
         },
         "Diagnosis": {
-            "name": "Diagnosis",
-            "category": "Academic"
+            "name": "진찰",
+            "category": "학술"
         },
         "Digital Intrusion": {
-            "name": "Digital Intrusion",
-            "category": "General"
+            "name": "디지털 침입",
+            "category": "일반"
         },
         "Disguise": {
-            "name": "Disguise",
-            "category": "General"
+            "name": "변장",
+            "category": "일반"
         },
         "Driving": {
-            "name": "Driving",
-            "category": "General"
+            "name": "운전",
+            "category": "일반"
         },
         "Electronic Surveillance": {
-            "name": "Electronic Surveillance",
-            "category": "Technical"
+            "name": "전자 감시",
+            "category": "기술"
         },
         "Explosive Devices": {
-            "name": "Explosive Devices",
-            "category": "General"
+            "name": "폭파",
+            "category": "일반"
         },
         "Filch": {
-            "name": "Filch",
-            "category": "General"
+            "name": "훔치기",
+            "category": "일반"
         },
         "Flattery": {
-            "name": "Flattery",
-            "category": "Interpersonal"
+            "name": "아첨",
+            "category": "대인"
         },
         "Flirting": {
-            "name": "Flirting",
-            "category": "Interpersonal"
+            "name": "유혹",
+            "category": "대인"
         },
         "Forgery": {
-            "name": "Forgery",
-            "category": "Technical"
+            "name": "위조",
+            "category": "기술"
         },
         "Gambling": {
-            "name": "Gambling",
-            "category": "General"
+            "name": "도박",
+            "category": "일반"
         },
         "Hand-to-Hand": {
-            "name": "Hand-to-Hand",
-            "category": "General"
+            "name": "격투",
+            "category": "일반"
         },
         "Health": {
-            "name": "Health",
-            "category": "General"
+            "name": "체력",
+            "category": "일반"
         },
         "High Society": {
-            "name": "High Society",
-            "category": "Interpersonal"
+            "name": "사교계",
+            "category": "대인"
         },
         "History": {
-            "name": "History",
-            "category": "Academic"
+            "name": "역사학",
+            "category": "학술"
         },
         "Human Terrain": {
-            "name": "Human Terrain",
-            "category": "Academic"
+            "name": "인간 지리",
+            "category": "학술"
         },
         "Infiltration": {
-            "name": "Infiltration",
-            "category": "General"
+            "name": "침투",
+            "category": "일반"
         },
         "Interrogation": {
-            "name": "Interrogation",
-            "category": "Interpersonal"
+            "name": "심문",
+            "category": "대인"
         },
         "Intimidation": {
-            "name": "Intimidation",
-            "category": "Interpersonal"
+            "name": "위협",
+            "category": "대인"
         },
         "Languages": {
-            "name": "Languages",
-            "category": "Academic"
+            "name": "언어",
+            "category": "학술"
         },
         "Law": {
-            "name": "Law",
-            "category": "Academic"
+            "name": "법률",
+            "category": "학술"
         },
         "Mechanics": {
-            "name": "Mechanics",
-            "category": "General"
+            "name": "기계공",
+            "category": "일반"
         },
         "Medic": {
-            "name": "Medic",
-            "category": "General"
+            "name": "응급 처치",
+            "category": "일반"
         },
         "Military Science": {
-            "name": "Military Science",
-            "category": "Academic"
+            "name": "군사 과학",
+            "category": "학술"
         },
         "Negotiation": {
-            "name": "Negotiation",
-            "category": "Interpersonal"
+            "name": "교섭",
+            "category": "대인"
         },
         "Network": {
-            "name": "Network",
-            "category": "General"
+            "name": "인맥",
+            "category": "일반"
         },
         "Notice": {
-            "name": "Notice",
-            "category": "Technical"
+            "name": "관찰력",
+            "category": "기술"
         },
         "Occult Studies": {
-            "name": "Occult Studies",
-            "category": "Academic"
+            "name": "오컬트학",
+            "category": "학술"
         },
         "Outdoor Survival": {
-            "name": "Outdoor Survival",
-            "category": "Technical"
+            "name": "야외 생존",
+            "category": "기술"
         },
         "Pharmacy": {
-            "name": "Pharmacy",
-            "category": "Technical"
+            "name": "약학",
+            "category": "기술"
         },
         "Photography": {
-            "name": "Photography",
-            "category": "Technical"
+            "name": "촬영",
+            "category": "기술"
         },
         "Piloting": {
-            "name": "Piloting",
-            "category": "General"
+            "name": "조종",
+            "category": "일반"
         },
         "Preparedness": {
-            "name": "Preparedness",
-            "category": "General"
+            "name": "준비성",
+            "category": "일반"
         },
         "Reassurance": {
-            "name": "Reassurance",
-            "category": "Interpersonal"
+            "name": "안심",
+            "category": "대인"
         },
         "Research": {
-            "name": "Research",
-            "category": "Academic"
+            "name": "자료 조사",
+            "category": "학술"
         },
         "Sense Trouble": {
-            "name": "Sense Trouble",
-            "category": "General"
+            "name": "위험감지",
+            "category": "일반"
         },
         "Shooting": {
-            "name": "Shooting",
-            "category": "General"
+            "name": "사격",
+            "category": "일반"
         },
         "Shrink": {
-            "name": "Shrink",
-            "category": "General"
+            "name": "상담",
+            "category": "일반"
         },
         "Stability": {
-            "name": "Stability",
-            "category": "General"
+            "name": "평정",
+            "category": "일반"
         },
         "Streetwise": {
-            "name": "Streetwise",
-            "category": "Interpersonal"
+            "name": "거리의 법칙",
+            "category": "대인"
         },
         "Surveillance": {
-            "name": "Surveillance",
-            "category": "General"
+            "name": "감시",
+            "category": "일반"
         },
         "Tradecraft": {
-            "name": "Tradecraft",
-            "category": "Interpersonal"
+            "name": "업계 상식",
+            "category": "대인"
         },
         "Traffic Analysis": {
-            "name": "Traffic Analysis",
-            "category": "Technical"
+            "name": "트래픽 분석",
+            "category": "기술"
         },
         "Urban Survival": {
-            "name": "Urban Survival",
-            "category": "Technical"
+            "name": "도시 생존",
+            "category": "기술"
         },
         "Vampirology": {
-            "name": "Vampirology",
-            "category": "Academic"
+            "name": "뱀파이어학",
+            "category": "학술"
         },
         "Weapons": {
-            "name": "Weapons",
-            "category": "General"
+            "name": "백병전",
+            "category": "일반"
         }
     }
 }
