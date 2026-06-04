@@ -1,0 +1,252 @@
+{
+    "label": "밤의 검은 사자들 기능",
+    "mapping": {
+        "category": "system.category"
+    },
+    "entries": {
+        "Accounting": {
+            "name": "회계",
+            "category": "학술"
+        },
+        "Archaeology": {
+            "name": "고고학",
+            "category": "학술"
+        },
+        "Architecture": {
+            "name": "건축학",
+            "category": "학술"
+        },
+        "Art History": {
+            "name": "미술사",
+            "category": "학술"
+        },
+        "Astronomy": {
+            "name": "천문학",
+            "category": "기술"
+        },
+        "Athletics": {
+            "name": "운동",
+            "category": "일반"
+        },
+        "Bullshit Detector": {
+            "name": "거짓말 탐지",
+            "category": "대인"
+        },
+        "Bureaucracy": {
+            "name": "관료제",
+            "category": "대인"
+        },
+        "Chemistry": {
+            "name": "화학",
+            "category": "기술"
+        },
+        "Conceal": {
+            "name": "은닉",
+            "category": "일반"
+        },
+        "Cop Talk": {
+            "name": "경찰 연줄",
+            "category": "대인"
+        },
+        "Cover": {
+            "name": "위장 신분",
+            "category": "일반"
+        },
+        "Criminology": {
+            "name": "범죄학",
+            "category": "학술"
+        },
+        "Cryptography": {
+            "name": "암호학",
+            "category": "기술"
+        },
+        "Data Recovery": {
+            "name": "데이터 판독",
+            "category": "기술"
+        },
+        "Diagnosis": {
+            "name": "진찰",
+            "category": "학술"
+        },
+        "Digital Intrusion": {
+            "name": "디지털 침입",
+            "category": "일반"
+        },
+        "Disguise": {
+            "name": "변장",
+            "category": "일반"
+        },
+        "Driving": {
+            "name": "운전",
+            "category": "일반"
+        },
+        "Electronic Surveillance": {
+            "name": "전자 감시",
+            "category": "기술"
+        },
+        "Explosive Devices": {
+            "name": "폭파",
+            "category": "일반"
+        },
+        "Filch": {
+            "name": "훔치기",
+            "category": "일반"
+        },
+        "Flattery": {
+            "name": "아첨",
+            "category": "대인"
+        },
+        "Flirting": {
+            "name": "유혹",
+            "category": "대인"
+        },
+        "Forgery": {
+            "name": "위조",
+            "category": "기술"
+        },
+        "Gambling": {
+            "name": "도박",
+            "category": "일반"
+        },
+        "Hand-to-Hand": {
+            "name": "격투",
+            "category": "일반"
+        },
+        "Health": {
+            "name": "체력",
+            "category": "일반"
+        },
+        "High Society": {
+            "name": "사교계",
+            "category": "대인"
+        },
+        "History": {
+            "name": "역사학",
+            "category": "학술"
+        },
+        "Human Terrain": {
+            "name": "인간 지리",
+            "category": "학술"
+        },
+        "Infiltration": {
+            "name": "침투",
+            "category": "일반"
+        },
+        "Interrogation": {
+            "name": "심문",
+            "category": "대인"
+        },
+        "Intimidation": {
+            "name": "위협",
+            "category": "대인"
+        },
+        "Languages": {
+            "name": "언어",
+            "category": "학술"
+        },
+        "Law": {
+            "name": "법률",
+            "category": "학술"
+        },
+        "Mechanics": {
+            "name": "기계공",
+            "category": "일반"
+        },
+        "Medic": {
+            "name": "응급 처치",
+            "category": "일반"
+        },
+        "Military Science": {
+            "name": "군사 과학",
+            "category": "학술"
+        },
+        "Negotiation": {
+            "name": "교섭",
+            "category": "대인"
+        },
+        "Network": {
+            "name": "인맥",
+            "category": "일반"
+        },
+        "Notice": {
+            "name": "관찰력",
+            "category": "기술"
+        },
+        "Occult Studies": {
+            "name": "오컬트학",
+            "category": "학술"
+        },
+        "Outdoor Survival": {
+            "name": "야외 생존",
+            "category": "기술"
+        },
+        "Pharmacy": {
+            "name": "약학",
+            "category": "기술"
+        },
+        "Photography": {
+            "name": "촬영",
+            "category": "기술"
+        },
+        "Piloting": {
+            "name": "조종",
+            "category": "일반"
+        },
+        "Preparedness": {
+            "name": "준비성",
+            "category": "일반"
+        },
+        "Reassurance": {
+            "name": "안심",
+            "category": "대인"
+        },
+        "Research": {
+            "name": "자료 조사",
+            "category": "학술"
+        },
+        "Sense Trouble": {
+            "name": "위험감지",
+            "category": "일반"
+        },
+        "Shooting": {
+            "name": "사격",
+            "category": "일반"
+        },
+        "Shrink": {
+            "name": "상담",
+            "category": "일반"
+        },
+        "Stability": {
+            "name": "평정",
+            "category": "일반"
+        },
+        "Streetwise": {
+            "name": "거리의 법칙",
+            "category": "대인"
+        },
+        "Surveillance": {
+            "name": "감시",
+            "category": "일반"
+        },
+        "Tradecraft": {
+            "name": "업계 상식",
+            "category": "대인"
+        },
+        "Traffic Analysis": {
+            "name": "트래픽 분석",
+            "category": "기술"
+        },
+        "Urban Survival": {
+            "name": "도시 생존",
+            "category": "기술"
+        },
+        "Vampirology": {
+            "name": "뱀파이어학",
+            "category": "학술"
+        },
+        "Weapons": {
+            "name": "백병전",
+            "category": "일반"
+        }
+    }
+}
