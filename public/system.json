@@ -230,6 +230,11 @@
       "lang": "it",
       "name": "Italiano",
       "path": "lang/it_IT.json"
+    },
+    {
+      "lang": "ko",
+      "name": "Korean",
+      "path": "lang/ko.json"
     }
   ],
   "compatibility": {
@@ -238,8 +243,8 @@
   },
   "initiative": "1d6",
   "url": "https://github.com/lumphammer/gumshoe-fvtt",
-  "manifest": "https://github.com/lumphammer/gumshoe-fvtt/releases/latest/download/system.json",
-  "download": "https://github.com/lumphammer/gumshoe-fvtt/releases/latest/download/investigator.zip",
+  "manifest": "https://github.com/whitson1117/gumshoe-fvtt/releases/latest/download/system.json",
+  "download": "https://github.com/whitson1117/gumshoe-fvtt/releases/latest/download/investigator.zip",
   "license": "MIT",
   "readme": "https://github.com/lumphammer/gumshoe-fvtt/blob/main/README.md",
   "bugs": "https://github.com/lumphammer/gumshoe-fvtt/issues",
